@@ -17,5 +17,5 @@ no_btn.addEventListener('click', () => {
 )
 
 yes_btn.addEventListener('click', () => {
-    container.innerHTML = `<h2>I Love You too <br>Trisha \u2764 \u2764 <br></h2>`
+    container.innerHTML = `<h2>I Love You too <br>Tisha \u2764 \u2764 \u2764 <br></h2>`
 })
